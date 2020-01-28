@@ -120,8 +120,9 @@ figure h4{
    
 }
 
-section h2{
-    
+.location h2{
+    padding-top: 80px; 
+    margin-bottom: 15px; 
 }
 
 .Loc_Block{
